@@ -56,14 +56,14 @@ This Power BI project analyzes the sales performance of **Nova Essentials**, pro
 
 ## 📄 Sales Dashboard Insights
 
-  <img src="dashboard.png" alt="Dashboard View" width="800"/>
+  <img src="" alt="Dashboard View" width="800"/>
 
 
 ---
 
 ## 📄 Sales Report Insights
 
-  <img src="report.png" alt="Detailed Report View" width="800"/>
+  <img src="" alt="Detailed Report View" width="800"/>
 
 
 ### 💼 Top Performing Products by Profit Margin
