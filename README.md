@@ -1,4 +1,4 @@
-# 📊 Nova Essentials Sales Analysis – Power BI Project
+# 📊 Nova Essentials Sales Analysis
 
 ## 🔍 Project Overview
 
